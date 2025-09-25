@@ -9,3 +9,4 @@ librosa==0.10.2.post1
 soundfile==0.12.1
 scikit-image==0.24.0
 pytest==8.3.2
+timm==0.9.16
